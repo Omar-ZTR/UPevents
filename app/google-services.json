@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1082345405831",
+    "firebase_url": "https://upev-dbf2d-default-rtdb.firebaseio.com",
+    "project_id": "upev-dbf2d",
+    "storage_bucket": "upev-dbf2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082345405831:android:1682431df4f6ade9c0e722",
+        "android_client_info": {
+          "package_name": "com.example.upevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082345405831-io1fvgrpndk7vkgnl6ch7g32m21hmj8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvmwKBNJ_TulZtD-zEHp2LLWeCIWqu5no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082345405831-io1fvgrpndk7vkgnl6ch7g32m21hmj8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

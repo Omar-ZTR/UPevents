@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="190dp"
+    android:paddingTop="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    android:background="@color/white"
+    android:gravity="center_vertical"
+    >
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+
+        android:id="@+id/nav_img"
+        android:layout_width="82dp"
+        android:layout_height="77dp"
+        android:background="@color/black"
+        android:scaleType="centerCrop"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:paddingTop="5dp"
+        android:id="@+id/nav_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Help In"
+        />
+
+    <TextView
+        android:id="@+id/nav_mail"
+        android:layout_width="379dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/b612_mono"
+        android:paddingTop="5dp"
+        android:text="Better Together" />
+
+</LinearLayout>
